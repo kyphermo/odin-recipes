@@ -1,0 +1,1 @@
+A simple html project from Foundations section of The Odin Project.
